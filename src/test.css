@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    color: red;
+    font-size: 35px
+}
+
+#a1{
+     color: red;
+ }
+.cl1 {
+    color:red;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+p{
+    text-indent: 30px;
+    line-height: 30px;
+}
+.box{
+    width: 30%;
+    height: 40px;
+    background-color: #3574F0;
+    padding: 20px;
+    border: 5px solid lightblue;
+    margin: 20px;
+    font-size: 30px;
+}
+.container{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+
