@@ -1,0 +1,42 @@
+.article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 150px;
+    width: 70%;
+    background-image: linear-gradient(-225deg, #A8BFFF 0%, #884D80 100%);
+    border-radius: 20px;
+
+
+    font-family: Maple monospace;
+    font-size: 20px;
+    text-align: center;
+    /*padding-top: 8px;*/
+    /*padding-bottom: 0;*/
+
+    margin: 20px 0 20px 0;
+
+}
+.article-text{
+    width: 65% ;
+    text-align: left;
+    margin-left: 20px;
+}
+.article-title{
+    font-family: "Maple Mono Nf CN",monospace;
+    font-weight: bold;
+    margin: 20px 0;
+    font-size: 30px;
+
+}
+.article-desc{
+    font-family: "Maple Mono Nf CN",monospace;
+    margin: 20px 0 0 ;
+    font-size: 20px;
+
+}
+.article-pic{
+    right: 10px;
+    margin-right: 0;
+    align-items: flex-end;
+}

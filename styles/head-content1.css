@@ -1,0 +1,32 @@
+.content1-container{
+    margin:  0 100px 80px 200px;
+}
+.content1-title{
+    font-family: fantasy,monospace;
+    font-size: 50px;
+    color: #33AFFE;
+}
+.content1-papers{
+    font-family: Maple monospace;
+    font-size: 24px;
+    margin-top: 16px;
+    color: #8FA2B7;
+}
+.paper{
+    display: inline-block;
+    color: #8FA2B7;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+#span1{
+    color: black;
+}
+#span2{
+    color: #7970A3;
+}
+#span3{
+    color: #d58f06;
+}
+#span4{
+    color: #b31111;
+}

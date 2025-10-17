@@ -1,0 +1,27 @@
+.content2-container{
+    margin: 0 60px;
+    width: 500px
+}
+.content2-list{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 20px 0 0 10px;
+}
+.list{
+    border-color: #210A37;
+    border-width: 4px;
+    border-radius: 8px;
+
+    font-family: Maple monospace;
+    color: #DCDCEE;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 0;
+
+    margin: 0 0 10px 0;
+    width: 110px;
+    height: 40px;
+    border-style: inset;
+}

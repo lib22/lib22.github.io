@@ -1,0 +1,10 @@
+.guide-bar{
+    margin: 0 60px;
+
+}
+.bar-list{
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    margin: 20px 0 0 10px;
+}

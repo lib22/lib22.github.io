@@ -1,0 +1,13 @@
+body{
+    background-color: #273749;
+}
+.header-bar{
+    height : 240px;
+    margin : 20px 30px 60px 30px;
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+
+}
